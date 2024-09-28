@@ -18,6 +18,7 @@ Ever wondered what Japan sounds like? From energetic J-Pop beats to calming talk
 
 ### Designed for Your Comfort:
 
+- **Sleep Timer:** Love falling asleep to your favorite Japanese station? Set the sleep timer, and Hikkiman Radio will automatically turn off when your chosen time is up. Drift off to dreamland with the perfect soundtrack.
 - **Dark Mode**: Love late-night listening? Or maybe you just prefer a sleek, sophisticated look? With our customizable Dark Mode, you can enjoy Hikkiman Radio any time of day (or night) without straining your eyes.
 
 ### Why Choose Hikkiman Radio?
